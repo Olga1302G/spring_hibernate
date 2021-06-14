@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88812e5b-9964-466f-bfdd-47df47b70fa8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13/13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13/out/production/13/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13/out/production/13/Quiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13/src/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoreTaskTemplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoClone" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoNew1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HibernateCore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HibernateOne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HibernateOne/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HibernateOne/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HibernateOne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HibernateOne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HibernateOne/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/Less9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/out/production/Less9/Less9_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/out/production/Less9/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/src/Less9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/src/Less9_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/Lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/out/production/Lesson/Les1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/Les1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/Less2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/Less3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/Less4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/Less5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/Lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/Logg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/Lesson2.7.2.13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Less8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/LessOne$Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/LessOne$AnimalType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/LessOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Lesson7$MailMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Lesson7$MailService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Lesson7$MailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Lesson7$Salary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Lesson7$Sendable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Lesson7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/out/production/Lesson2.7.2.13/Quiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/src/Less8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/src/LessOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/src/Lesson7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson2.7.2.13/src/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/Lesson7l.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/out/production/Lesson7l/Exmp1$NumberGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/out/production/Lesson7l/Exmp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/out/production/Lesson7l/Exmp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/out/production/Lesson7l/Exmp3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/out/production/Lesson7l/Exmp4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/src/Exmp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/src/Exmp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/src/Exmp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/src/Exmp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson7l/src/Exmp5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/LessonTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/Less5_1$Direction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/Less5_1$Robot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/Less5_1$RobotConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/Less5_1$RobotConnectionException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/Less5_1$RobotConnectionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/Less5_1$RobotConnectionManagerImplementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/Less5_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/out/production/LessonTwo/less6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/src/Less5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/src/Less5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LessonTwo/src/less6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/Object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/CharSeq$AsciiCharSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/CharSeq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Except$A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Except.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Lesson$ComplexNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Lesson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Main1$KeywordAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Main1$Label.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Main1$NegativeTextAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Main1$SpamAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Main1$TextAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Main1$TooLongTextAnalyzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Main1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Robot$Direction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Robot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/out/production/Object/Scen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/src/CharSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/src/Except.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/src/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/src/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object/src/Scen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/Serial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/AnimalDes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Bar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Baz$Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Baz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/DynamicArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Ex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Example$Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Example$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Example2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Example3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/ReadObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/WriteObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/out/production/Serial/tyw.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/AnimalDes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/ReadObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/WriteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/src/tyw.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Serial/tyw.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/out/production/Study/Lesson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/out/production/Study/Lesson2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/src/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/src/Lesson2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study/src/Lesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoNew/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoNew/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoNew/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoNew/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoNew/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/src/main/java/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/src/main/java/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/src/main/java/olga/ClassicMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/src/main/java/olga/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/src/main/java/olga/PlayerMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exampleNew/src/main/java/olga/RockMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../helloNew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_13_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_scala_lang_scala_library_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_scalactic_scalactic_2_13_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_scalatest_scalatest_2_13_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_scalatestplus_junit_4_12_2_13_3_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_springframework_spring_beans_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_springframework_spring_core_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/libraries/Maven__org_springframework_spring_test_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/spring-helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-helloworld/src/main/resourses/ApplicationContext.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../off-white/CloudflareScrape-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/hiber/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hiber/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hiber/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hiber/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hiber/model/User.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-hibernate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-hibernate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-hibernate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-hibernate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-context:5.0.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-hibernate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-orm:5.0.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1552" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectId" id="1tveHW8C9tsz2B7aOLt6LEViODq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hiber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hiber" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hiber" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hiber" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hiber" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../android-sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4934555" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Святослав\Documents\codeWork\SpringTasks\spring_hibernate\src\main\resources" />
+      <recent name="C:\Users\Святослав\Documents\codeWork\SpringTasks\spring_hibernate\src\main\java\hiber" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hiber.MainApp" />
+      <module name="spring_hibernate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hiber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88812e5b-9964-466f-bfdd-47df47b70fa8" name="Default" comment="" />
+      <created>1573734376767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573734376767</updated>
+      <workItem from="1573734384514" duration="1880000" />
+      <workItem from="1573805490909" duration="2519000" />
+      <workItem from="1574444697457" duration="1213000" />
+      <workItem from="1574686569885" duration="150000" />
+      <workItem from="1623653905145" duration="1973000" />
+      <workItem from="1623655916338" duration="437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5762000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42937854" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13166311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="54" column="1" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="54" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hiber/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring_hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
